@@ -4,6 +4,7 @@ converts one stereo i2s to dual mono differental i2s.
 sample:
 
 datai--input
+
 ___________| ͞ ͞ ͞ ͞ ͞ ͞ ͞
 
 =====L===== =====R=====
